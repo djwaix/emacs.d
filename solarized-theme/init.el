@@ -1,0 +1,2 @@
+(require 'solarized-dark-theme)
+
