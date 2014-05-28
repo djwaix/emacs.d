@@ -12,4 +12,6 @@ Thumbs.db
 # #############
 #
 private.gpg.example
-
+%backup%~
+.cask (*
+.emacs.d
