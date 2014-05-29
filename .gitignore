@@ -15,3 +15,6 @@ private.gpg.example
 %backup%~
 .cask (*
 .emacs.d
+elpa/powerline-readme.txt
+session.*
+
