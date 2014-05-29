@@ -6,6 +6,11 @@
 
 (setq zconfig-errors nil)
 
+; setting Super ＆ Hyper keys for Apple keyboard, for emacs running in OS X
+(setq mac-command-modifier 'super) ; sets the Command key to Super 
+;;(setq mac-option-modifier 'super) ; sets the Option key to Super
+(setq mac-control-modifier 'control) ; sets the Control key to Control
+(setq ns-function-modifier 'hyper)  ; set Mac's Fn key to Hyper
 
 (defun islinux ()
   (or (eq system-type "gnu/linux") (eq system-type 'gnu/linux)))
