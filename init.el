@@ -34,7 +34,7 @@
 (zconfig-load "easypg")
 (zconfig-load "window-settings")
 (zconfig-load "solarized-theme")
-;; (zconfig-load "color-theme")
+(zconfig-load "color-theme")
 ;; (zconfig-load "color-theme-zenburn")
 (zconfig-load "ibuffer")
 (zconfig-load "hippie-expand")
