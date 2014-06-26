@@ -85,7 +85,7 @@
 					"* Meeting on %U\n%?")
 				  ("n" "Note" entry (file+headline "~/org/notes.org" "Notes")
 					"* %?")
-				  ("j" "Journal" entry (file+datetree "~/org/journal.org")
+				  ("j" "Journal" entry (file+datetree "~/org/journal.org" "Journal")
 					"* %?\nEntered on %U\n  %i\n"))))
 
 (add-hook 'org-capture-after-finalize-hook #'(lambda () (org-save-all-org-buffers)))

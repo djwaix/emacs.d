@@ -222,3 +222,6 @@
         (write-string-to-file
          (concat "(zconfig-update-from-git-simple \"" module-name "\" \"" arg "\")")
          (concat zconfig-current-module-update-file))))))
+
+;; Aspell
+(setq-default ispell-program-name "aspell")
