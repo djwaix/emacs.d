@@ -225,3 +225,6 @@
 
 ;; Aspell
 (setq-default ispell-program-name "aspell")
+
+;; Visual Line Mode
+(global-visual-line-mode t)
