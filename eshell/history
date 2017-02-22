@@ -1,0 +1,54 @@
+cd ..
+ls -al
+cd .emacs.d/
+ls
+ls lisp/
+cd .emacs.d/
+ls
+ls -al
+cat zmacs/solarized-theme/init.el
+cat zmacs/init.el 
+cd .emacs.d/
+ls
+mkdir base16-theme
+mv base16-theme.el base16-theme/
+mv base16-theme/base16-theme.el base16-theme/init.el
+cd .emacs.d/
+ls
+ls -al
+cd .emacs.d/zmacs/
+ls
+cat zconfig.el 
+ls
+cd ..
+ls
+rm -rf base16-theme
+ls -al
+cd .emacs.d/
+ls
+cp zmacs/org-mode .
+cp -r zmacs/org-mode .
+ls
+cd .emacs.d/
+ls
+cd elpa/
+ls
+cat use-package-readme.txt
+cd org-20170210/
+ls
+cat README_ELPA 
+cd .emacs.d/
+ls
+ls elpa/
+cd elpa/use-package-20170218.132/
+ls
+cat use-package-autoloads.el 
+cd ..
+cd ..
+ls
+cd zmacs/
+ls
+locale
+mv .private.el ~/.emacs.d/
+mv ~/.emacs.d/.private.el ~/.private.el
+cd .emacs.d/

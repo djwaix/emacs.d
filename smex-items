@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ eval-buffer
+ circe
+ package-install
+ list-packages
+ flyspell-buffer
+ flyspell-mode
+ eshell
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 14)
+ (circe . 9)
+ (list-packages . 8)
+ (eshell . 8)
+ (customize-themes . 1)
+ (org-todo . 2)
+ (package-install . 6)
+ (flyspell-mode . 1)
+ (flyspell-buffer . 1)
+)
