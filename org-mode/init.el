@@ -56,7 +56,7 @@
 (setq org-archive-mark-done nil)
 (setq org-archive-location "%s_archive::* Archived Tasks")
 
-(setq org-default-notes-file "~/org/gtd.txt")
+(setq org-default-notes-file "~/org/gtd.org")
 (setq org-special-ctrl-a/e t)
 (setq org-return-follows-link nil)
 (setq org-fast-tag-selection-single-key t)

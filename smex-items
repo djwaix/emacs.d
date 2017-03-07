@@ -2,23 +2,24 @@
 ;; ----- smex-history -----
 (
  eval-buffer
+ org-export-dispatch
+ eshell
  circe
  package-install
  list-packages
  flyspell-buffer
- flyspell-mode
- eshell
 )
 
 ;; ----- smex-data -----
 (
- (eval-buffer . 14)
+ (eval-buffer . 17)
  (circe . 9)
  (list-packages . 8)
- (eshell . 8)
+ (eshell . 9)
  (customize-themes . 1)
  (org-todo . 2)
  (package-install . 6)
  (flyspell-mode . 1)
  (flyspell-buffer . 1)
+ (org-export-dispatch . 1)
 )

@@ -52,3 +52,48 @@ locale
 mv .private.el ~/.emacs.d/
 mv ~/.emacs.d/.private.el ~/.private.el
 cd .emacs.d/
+cd .emacs.d/
+ls
+ls -al
+git status
+git add *
+git status
+git commit -m "Complete rewrite of .emacs"
+git push
+git status
+ls
+ls -al
+pwd
+cd Library/
+ls
+cd Preferences/
+ls
+ls | grep com.microsoft
+nmap grvs-wds1
+ping psg2
+ping psg2.mcmillan.loc
+ping chss-vh1
+nmap chss-vh1
+nmap chss-vh1
+nmap chss-vh1
+nmap chss-vh1
+ping chss-vh1
+nmap chss-vh1
+ping psg2
+pwd
+git status
+git add *
+git commit -m 'New packages'
+git push
+cd ..
+ls
+cd .emacs.d/
+ls
+cd elpa/
+ls
+ls -al
+cd ../.dotfiles/
+git status
+git add * 
+git commit -m 'Added texbin to $PATH for PDF export in emacs'
+git push

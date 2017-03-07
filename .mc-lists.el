@@ -8,5 +8,6 @@
 
 (setq mc/cmds-to-run-once
       '(
+		  beginning-of-buffer
 		  org-self-insert-command
 		  ))

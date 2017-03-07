@@ -4,7 +4,7 @@
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
 (("org-capture-last-stored"
  (filename . "~/org/journal.org")
- (front-context-string . "**** This fuckin")
- (rear-context-string . "-06-26 Thursday\n")
- (position . 1960))
+ (front-context-string . "**** I'm sick of")
+ (rear-context-string . "3-07 Tue 14:27]\n")
+ (position . 5497))
 )
