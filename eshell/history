@@ -1,80 +1,3 @@
-cd ..
-ls -al
-cd .emacs.d/
-ls
-ls lisp/
-cd .emacs.d/
-ls
-ls -al
-cat zmacs/solarized-theme/init.el
-cat zmacs/init.el 
-cd .emacs.d/
-ls
-mkdir base16-theme
-mv base16-theme.el base16-theme/
-mv base16-theme/base16-theme.el base16-theme/init.el
-cd .emacs.d/
-ls
-ls -al
-cd .emacs.d/zmacs/
-ls
-cat zconfig.el 
-ls
-cd ..
-ls
-rm -rf base16-theme
-ls -al
-cd .emacs.d/
-ls
-cp zmacs/org-mode .
-cp -r zmacs/org-mode .
-ls
-cd .emacs.d/
-ls
-cd elpa/
-ls
-cat use-package-readme.txt
-cd org-20170210/
-ls
-cat README_ELPA 
-cd .emacs.d/
-ls
-ls elpa/
-cd elpa/use-package-20170218.132/
-ls
-cat use-package-autoloads.el 
-cd ..
-cd ..
-ls
-cd zmacs/
-ls
-locale
-mv .private.el ~/.emacs.d/
-mv ~/.emacs.d/.private.el ~/.private.el
-cd .emacs.d/
-cd .emacs.d/
-ls
-ls -al
-git status
-git add *
-git status
-git commit -m "Complete rewrite of .emacs"
-git push
-git status
-ls
-ls -al
-pwd
-cd Library/
-ls
-cd Preferences/
-ls
-ls | grep com.microsoft
-nmap grvs-wds1
-ping psg2
-ping psg2.mcmillan.loc
-ping chss-vh1
-nmap chss-vh1
-nmap chss-vh1
 nmap chss-vh1
 nmap chss-vh1
 ping chss-vh1
@@ -97,3 +20,109 @@ git status
 git add * 
 git commit -m 'Added texbin to $PATH for PDF export in emacs'
 git push
+cd ../.emacs.d/
+git status
+git add -u
+git commit -m 'New packages; removed old stuff'
+git status
+git push
+git status
+git add *
+git commit -m '/elpa packages'
+git push
+git status
+ifconfig
+nmap 192.168.1.1
+telnet 192.168.1.1
+nmap 192.168.5.254
+telnet 192.168.5.254
+ping 192.168.5.22
+cd ../org
+ls
+ls -al
+cd ../org
+cd ..
+cat .emacs | grep org-archive
+ping grvs-sqlserver
+k
+cd .dotfiles/
+git status
+git add *
+git commit -m 'Changes to org and some new pkgs'
+git push
+nmap grvs-web1
+nmap grvs-sqlserver
+nmap grvs-sqlserver
+nmap grvs-lm1
+mkdir org/Personal
+mkdir org/Business
+ln -s Dropbox/Apps/ ~/org/Apps
+cd org/
+ls
+cd Apps
+ls -al
+rm Apps
+ln -s ~/Dropbox/Apps/ Apps
+ls -al
+ls -al | grep Apps
+ifconfig
+brew update
+brew list > ~/.dotfiles/brewlist.txt
+cat .dotfiles/brewlist.txt 
+ruby -v
+rails -v
+brew list | grep rails
+gem install rails
+rails -v
+cd Shells/ruby/
+ls
+cd railsbridge/
+ls
+cd ..
+rails new hello_app
+ls
+cd hello_app/
+ls
+bundle install
+bundle install
+rails server
+ls app/controllers/
+rails server
+rails server
+git config --list
+git init
+git add -A
+git status
+git commit -m 'Inintialize Repo'
+git log
+git status
+git remote add origin git@bitbucket.org:thadeej/hello_app.git
+git push -u origin --all
+git push -f -u origin --all
+ssh-add ~/.ssh/id_rsa
+git status
+git checkout -b modify-README
+git branch
+git status
+git commit -a -m 'Improve the README'
+git status
+git checkout master
+git merge modify-README
+git branch -d modify-README
+git branch
+git status
+git push
+bundle install --without production
+bundle install --without production
+git status
+git commit -a -m 'Update Gemfile for Heroku'
+heroku version
+heroku lagin
+heroku login
+heorku keys:add
+heroku keys:add
+heroku keys:add
+heroku create
+heroku create
+git push heroku master
+heroku help
