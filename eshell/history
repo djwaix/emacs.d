@@ -1,128 +1,128 @@
-nmap chss-vh1
-nmap chss-vh1
-ping chss-vh1
-nmap chss-vh1
-ping psg2
-pwd
-git status
-git add *
-git commit -m 'New packages'
-git push
-cd ..
+clear
+
+spotify shuffle
+clear
+
+spotify toggle shuffle
+spotify toggle shuffle
+spotify toggle shuffle on
+spotify status
+clear
+
+spotify status
+
+spotify status
+spotify next
+spotify next
+spotify next
+spotify status
+spotify pause
+spotify play
+spotify status
+spotify status
+spotify pause
+spotify play
+spotify status
+spotify pause
+spotify play
+spotify play
+spotify next
+spotify next
+spotify status
+spotify pause
+traceroute 146.13.196.12
+spotify pause
+spotify play
+docker pull busybox
+docker images
+spotify next
+spotify status
+spotify paus
+spotify pause
+cd Shells/
+ls -al
+cd
+ls -al
+cd Shells/
+ls -al
+cd EP
+ls -al
+cd ep-ansible/
+ls -al
+cd files/
 ls
-cd .emacs.d/
-ls
-cd elpa/
+cd pub_keys/
 ls
 ls -al
-cd ../.dotfiles/
-git status
-git add * 
-git commit -m 'Added texbin to $PATH for PDF export in emacs'
-git push
-cd ../.emacs.d/
-git status
-git add -u
-git commit -m 'New packages; removed old stuff'
-git status
-git push
-git status
-git add *
-git commit -m '/elpa packages'
-git push
-git status
-ifconfig
-nmap 192.168.1.1
-telnet 192.168.1.1
-nmap 192.168.5.254
-telnet 192.168.5.254
-ping 192.168.5.22
-cd ../org
-ls
+cat dj.wilson-2017.pub 
+vim christian.colon-2017.pub
+ssh ep@216.178.224.209
+cd Shells/bash-alicious/Shell\ Scripts/
 ls -al
-cd ../org
-cd ..
-cat .emacs | grep org-archive
-ping grvs-sqlserver
-k
-cd .dotfiles/
-git status
-git add *
-git commit -m 'Changes to org and some new pkgs'
-git push
-nmap grvs-web1
-nmap grvs-sqlserver
-nmap grvs-sqlserver
-nmap grvs-lm1
-mkdir org/Personal
-mkdir org/Business
-ln -s Dropbox/Apps/ ~/org/Apps
-cd org/
-ls
-cd Apps
+./ssl-query.sh kitchen.dennys.com
+./ssl-query.sh kitchen2.dennys.com
+cd ../..
+ls 
+cd EP
+ping kitchen.dennys.com
+ping kitchen.dennys.com -p 443
+ping kitchen.dennys.com:443
+ping kitchen2.dennys.com
+cd ../bash-alicious/Shell\ Scripts/
+./ssl-query.sh api.dennys.com
+ping api.dennys.com
+ping api.dennys.com
+ping api.dennys.com
+ping api.dennys.com
+ping api.dennys.com
+ssh scope
+ssh scope
+ssh scope
+ssh scope
+clear
+
+spotify pause
+spotify play
+spotify pause
+rack configure
+cd
 ls -al
-rm Apps
-ln -s ~/Dropbox/Apps/ Apps
+cd .rack/
 ls -al
-ls -al | grep Apps
-ifconfig
-brew update
-brew list > ~/.dotfiles/brewlist.txt
-cat .dotfiles/brewlist.txt 
-ruby -v
-rails -v
-brew list | grep rails
-gem install rails
-rails -v
-cd Shells/ruby/
-ls
-cd railsbridge/
-ls
-cd ..
-rails new hello_app
-ls
-cd hello_app/
-ls
-bundle install
-bundle install
-rails server
-ls app/controllers/
-rails server
-rails server
-git config --list
-git init
-git add -A
-git status
-git commit -m 'Inintialize Repo'
-git log
-git status
-git remote add origin git@bitbucket.org:thadeej/hello_app.git
-git push -u origin --all
-git push -f -u origin --all
-ssh-add ~/.ssh/id_rsa
-git status
-git checkout -b modify-README
-git branch
-git status
-git commit -a -m 'Improve the README'
-git status
-git checkout master
-git merge modify-README
-git branch -d modify-README
-git branch
-git status
-git push
-bundle install --without production
-bundle install --without production
-git status
-git commit -a -m 'Update Gemfile for Heroku'
-heroku version
-heroku lagin
-heroku login
-heorku keys:add
-heroku keys:add
-heroku keys:add
-heroku create
-heroku create
-git push heroku master
-heroku help
+cat config 
+cd
+cd Shells/
+ls 
+cd
+ping dod.dennys.com
+ping build.servers.epqa.us
+spotify status
+spotify pause
+brew search spectacle
+brew cask install spectacle
+nmap web1.ep.dev.bos.epqa.us
+ssh ep@web1.ep.dev.bos.epqa.us
+ping 10.156.105.195
+ping vzbillmgr.erwinpenland.agency
+ssh jack
+exit
+cat .ssh/config 
+ping vzconnectinos.vzcomportal.com
+ping vzconnections.vzcomportal.com
+spotify play
+ping balrog
+ping 10.156.105.195
+ping 10.156.50.150
+ping 10.156.105.196
+ping 10.156.105.196
+ssh theisland
+ping 10.156.50.134
+ssh ep@216.178.224.209
+ping 216.178.224.209
+nmap 216.178.224.209
+ssh ep@216.178.224.209
+ssh ep@216.178.224.209
+ssh jack
+ssh-add .ssh/id_rsa
+ssh jack
+ping vzbillmgr.erwinpenland.agency
