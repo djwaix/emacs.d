@@ -1,14 +1,5 @@
 clear
 
-spotify shuffle
-clear
-
-spotify toggle shuffle
-spotify toggle shuffle
-spotify toggle shuffle on
-spotify status
-clear
-
 spotify status
 
 spotify status
@@ -126,3 +117,12 @@ ssh jack
 ssh-add .ssh/id_rsa
 ssh jack
 ping vzbillmgr.erwinpenland.agency
+cd Shells/bash-alicious/Shell\ Scripts/
+./ssl-query.sh indirectvzw.com
+ping locations.dennys.com
+ping dennys.com/locations
+dig locations.dennys.com
+dig dennys.ca
+b
+spotify pause
+spotify play

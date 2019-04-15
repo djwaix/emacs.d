@@ -4,7 +4,7 @@
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
 (("org-capture-last-stored"
  (filename . "~/org/journal.org")
- (front-context-string . "**** Man...it's ")
- (rear-context-string . "7-05-02 Tuesday\n")
- (position . 20007))
+ (front-context-string . "**** TODO Get ou")
+ (rear-context-string . "ut of Evernote.\n")
+ (position . 21150))
 )

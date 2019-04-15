@@ -1,0 +1,19 @@
+
+In magit-browse-pull-request:
+magit-collab.el:72:45:Warning: reference to free variable ‘it’
+
+In end of data:
+magit-commit.el:544:1:Warning: the function ‘with-editor*’ is not known to be
+    defined.
+
+In end of data:
+magit-git.el:2176:1:Warning: the function ‘magit-with-pre-popup-buffer’ is not
+    known to be defined.
+
+In end of data:
+magit-notes.el:203:1:Warning: the function ‘magit-with-pre-popup-buffer’ is
+    not known to be defined.
+
+In end of data:
+magit-process.el:1123:1:Warning: the function ‘with-editor*’ is not known to
+    be defined.
